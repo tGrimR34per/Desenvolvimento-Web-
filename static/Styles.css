@@ -1,0 +1,54 @@
+body{
+    background-image:url(fundo2.png);
+}
+
+div.logo{
+    float: left;
+    padding: 10px 300px
+}
+
+div.cabeçalho{
+    float: right;
+    padding: 0px 300px 0px 300px
+}
+
+div.capa{
+    padding: 80px 300px
+}
+
+div.h2{
+    float: center;
+    padding: 50px 300px
+}
+
+div.textos{
+    float: center;
+    padding: 50px 300px
+
+}
+
+div.cr{
+    float: left;
+    padding: 50px 600px 50px 600px
+}
+
+.cabeçalho{
+    width: 70%;
+    margin: right;
+}
+
+/* Configurações a partir de IDs */
+
+#header{
+    border-top: 6px solid;
+    border-color: #6D78A8;
+}
+
+#header .cabeçalho{
+    padding-top: 10px;
+}
+
+.flex-container{
+    float:right;
+    padding-top:20px;
+}
